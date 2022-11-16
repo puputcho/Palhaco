@@ -10,7 +10,7 @@ function setup() {
 function draw() {
     image(video, 0,0, 640,480);
     fill("red")
-    circle(320, 240, 50)
+    circle(320, 240, 30)
     fill('black')
     rect(270, 0, 100, 100);
     rect(220, 100, 200, 50);
